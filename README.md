@@ -1,7 +1,7 @@
 # Mateusz Żyła
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mzyla-dev/)](https://www.linkedin.com/in/mzyla-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-mateusz.zylaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz.zylaa@gmail.com)](mailto:mateusz.zylaa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mateusz.zyla@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz.zylaa@gmail.com)](mailto:mateusz.zylaa@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/plotkabytes?label=Follow&style=social)](https://github.com/plotkabytes/?tab=follow)
 
 ## Hi there 👋
